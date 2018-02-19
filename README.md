@@ -26,7 +26,9 @@ The final report is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
 
 If it refuses to render, then please follow this
 [link](http://nfkb.scienceontheweb.net/du/7.final_report.html)
-to my personal website.
+to my personal website and the instructions therein on how to uncompress (gzip) and view the html report.
+If you want to reproduce the report please do:  bin/make_reports.bash
+
 
 All individual reports are here as HTML
 1. [dependencies](../master/RMARKDOWN_OUT_REPORTS/1.dependencies.html)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -rf push_to_GIT
+#rm -rf push_to_GIT
 mkdir push_to_GIT >& /dev/null
 cp -r bin lib test push_to_GIT
 cp -r original_data cleaned_data push_to_GIT
