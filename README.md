@@ -3,8 +3,11 @@
 # date: 18-02-2018
 # version: 1.0
 
-The final report is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
+The final report as PDF is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.pdf)
+The final report as HTML [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
 
+If for some reason the PDF report is not showing right, then
+you will have to use the HTML report.
 UNFORTUNATELY: Github refuses to render big HTML files
 (it is beyond me how this is so as rendering is the responsibility of the local browser)
 so you will have to save them locally before you view them if you see a message that file is too big for Github to handle.
@@ -34,14 +37,8 @@ All individual reports are here as HTML
 6. [Questions](../master/RMARKDOWN_OUT_REPORTS/6.questions.html)
 7. [All the above](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
 
-All individual reports are here as PDF
-1. [dependencies](../master/RMARKDOWN_OUT_REPORTS/1.dependencies.pdf)
-2. [clean data/remove NAs](../master/RMARKDOWN_OUT_REPORTS/2.clean_dataset.pdf)
-3. [data analysis](../master/RMARKDOWN_OUT_REPORTS/3.data.pdf)
-4. [timeseries analysis](../master/RMARKDOWN_OUT_REPORTS/4.timeseries.pdf)
-5. [PCA analysis](../master/RMARKDOWN_OUT_REPORTS/5.pca.pdf)
-6. [Questions](../master/RMARKDOWN_OUT_REPORTS/6.questions.pdf)
-7. [All the above](../master/RMARKDOWN_OUT_REPORTS/7.final_report.pdf)
+The final report PDF is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.pdf)
 
-or HTML in folder [RMARKDOWN_OUT_REPORTS](../master/RMARKDOWN_OUT_REPORTS/)
-(unfortunately great Github finds these files to large to render)
+bw
+
+Andreas
