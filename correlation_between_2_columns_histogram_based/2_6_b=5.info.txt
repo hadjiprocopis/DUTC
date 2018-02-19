@@ -1,0 +1,2 @@
+nz_mean	nz_stdev	nz_entropy	total_mean	total_stdev	total_entropy	MI	COV	nz(t-test)pv	nz(levene)pv	total(t-test)pv	total(levene)pv	details	output_basename
+2207.5	5796.41815186796	0.672543668127011	2119.2	5691.52437108607	0.672543668127011	0.562612443790425	-127488504.5	0.0553772950920318	NA	0.0552047318573504	NA		correlation_between_2_columns_histogram_based/2_6_b=5
