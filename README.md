@@ -3,8 +3,10 @@
 # date: 18-02-2018
 # version: 1.0
 
+WARNING: do not click the link below (final report PDF), just save it and open it locally. The PDF file
+is too large and Github will insist on showing it inline.
+
 The final report as PDF is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.pdf).
-WARNING: do not click the above link, just save it and open it locally.
 
 The final report as HTML [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
 
