@@ -3,7 +3,7 @@
 # date: 18-02-2018
 # version: 1.0
 
-The report is [here](../master/RMARKDOWN_OUT_REPORTS/final_report.pdf)
+The report is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
 
 There are three types of analyses:
 1. Data analysis: normality test, correlations between columns, distribution estimation: [here](../master/RMARKDOWN-REPORTS/timeseries.html)
