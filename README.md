@@ -3,7 +3,9 @@
 # date: 18-02-2018
 # version: 1.0
 
-The final report as PDF is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.pdf)
+The final report as PDF is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.pdf).
+WARNING: do not click the above link, just save it and open it locally.
+
 The final report as HTML [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
 
 If for some reason the PDF report is not showing right, then
