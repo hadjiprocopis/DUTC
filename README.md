@@ -3,7 +3,16 @@
 # date: 18-02-2018
 # version: 1.0
 
-The report is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
+The final report is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
+
+UNFORTUNATELY: Github refuses to render big HTML files
+(it is beyond me how this is so as rendering is the responsibility of the local browser)
+so you will have to save them locally before you view them if you see a message that file is too big for Github to handle.
+
+If Github refuses to render it because of its large size then please download [this](https://github.com/hadjiprocopis/DUTC/blob/master/RMARKDOWN_OUT_REPORTS/7.final_report.html?raw=true) and
+locally and then open it from there.
+
+If you want to reproduce the report please do:  bin/make_reports.bash
 
 There are three types of analyses:
 1. Data analysis: normality test, correlations between columns, distribution estimation: [here](../master/RMARKDOWN-REPORTS/timeseries.html)
@@ -17,18 +26,6 @@ for the data provider.
 WARNING: PDF renderings of the Rmarkdown files situated [here](../master/RMARKDOWN_IN)
 are not adequate. They are poor and sub-standard. It is best to
 view the HTML documents.
-
-UNFORTUNATELY: Github refuses to render big HTML files
-(beyond me how this is so as rendering is the responsibility of the local browser)
-so you will have to save them locally before you view them.
-
-The final report is [here](../master/RMARKDOWN_OUT_REPORTS/7.final_report.html)
-
-If Github refuses to render it because of its large size then please download [this](https://github.com/hadjiprocopis/DUTC/blob/master/RMARKDOWN_OUT_REPORTS/7.final_report.html?raw=true) and
-locally and then open it from there.
-
-If you want to reproduce the report please do:  bin/make_reports.bash
-
 
 All individual reports are here as HTML
 1. [dependencies](../master/RMARKDOWN_OUT_REPORTS/1.dependencies.html)
